@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <int>156574863</int>
+   <object class="modelo.Alunos">
+    <void property="matricula">
+     <int>156574863</int>
+    </void>
+    <void property="nome">
+     <string>joão</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
